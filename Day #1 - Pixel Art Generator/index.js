@@ -9,6 +9,8 @@ let paintBtn = document.getElementById("paint-btn");
 let widthValue = document.getElementById("width-value");
 let heightValue = document.getElementById("height-value");
 
+// HOLA MUNDO
+
 let events = {
     mouse: {
         down: "mousedown",
